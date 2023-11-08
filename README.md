@@ -1,4 +1,9 @@
-### Hi there 👋
+### tsubo-6のプロフィール
+
+以下はGithubに投稿しているアプリケーションの概要です.
+
+### 1.カレー専門のレビューアプリ(個人開発)
+
 
 <!--
 **tsubo-6/tsubo-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
